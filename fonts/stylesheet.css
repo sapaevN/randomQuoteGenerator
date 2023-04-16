@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Mumblers Demo';
+    src: url('MumblersDemoRegular.woff2') format('woff2'),
+        url('MumblersDemoRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
